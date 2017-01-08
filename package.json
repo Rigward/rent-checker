@@ -8,7 +8,9 @@
   },
   "author": "rigward@gmail.com",
   "license": "ISC",
-  "devDependencies": {
-    "electron": "^1.4.10"
+  "devDependencies": {},
+  "dependencies": {
+    "electron": "^1.4.13",
+    "jsdom": "^9.9.1"
   }
 }
