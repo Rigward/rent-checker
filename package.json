@@ -1,0 +1,14 @@
+{
+  "name": "olx-rent",
+  "version": "1.0.0",
+  "description": "app to monitor rent proposals at olx",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "author": "rigward@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^1.4.10"
+  }
+}
